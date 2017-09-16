@@ -30,6 +30,7 @@ export default {
   components: {},
   methods: {
     arrayify(inputText) {
+      console.log('hello')
 
     }
 
